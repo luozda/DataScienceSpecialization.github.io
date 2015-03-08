@@ -19,4 +19,4 @@ interested in contributing [click here](https://github.com/DataScienceSpecializa
 9. [Developing Data Products](/ddp/)
 
 - [Other Resources](/other/)
-- [Curated Pages](/curated/)
+- [Curated Pages][Statistics Using R with Biological Examples](http://cran.r-project.org/doc/contrib/Seefeld_StatsRBio.pdf)
